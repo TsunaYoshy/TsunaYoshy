@@ -162,7 +162,7 @@ interface FullStackEngineer {
     currentMission: string;
 }
 
-const muriloAugusto: FullStackEngineer = {
+const pezzottiMatheus: FullStackEngineer = {
     architecture: [
         "🔷 Microservices & Distributed Systems",
         "🔷 Event-Driven Architecture",
